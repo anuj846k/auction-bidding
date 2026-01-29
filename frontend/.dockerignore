@@ -1,0 +1,41 @@
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Environment files (will be injected at runtime)
+.env
+.env.*
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose*.yml
+.dockerignore
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# Logs
+logs
+*.log
+
+# Neon Local metadata
+.neon_local
+
+# Development files
+README.md
+.prettierrc
+.eslintrc*
+eslint.config.js
+
+# OS
+.DS_Store
+Thumbs.db
